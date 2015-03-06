@@ -1,0 +1,22 @@
+{
+  "name": "maxlength",
+  "version": "0.0.1",
+  "homepage": "https://github.com/fredericgrati/maxlength",
+  "authors": [
+    "Frédéric GRATI <grati.frederic@gmail.com>"
+  ],
+  "main": "src/jquery.maxlength.js",
+  "keywords": [
+    "maxlength",
+    "jquery",
+    "bower"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
